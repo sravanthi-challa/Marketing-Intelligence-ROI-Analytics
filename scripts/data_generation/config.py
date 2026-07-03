@@ -3,13 +3,36 @@ Project Configuration
 ShopSphere Marketing Intelligence
 """
 
-# Random seed for reproducibility
+from pathlib import Path
+
+# -----------------------------
+# Base Paths
+# -----------------------------
+
+BASE_DIR = Path(__file__).resolve().parents[2]
+
+DATA_DIR = BASE_DIR / "data"
+GENERATED_DATA_DIR = DATA_DIR / "generated"
+
+GENERATED_DATA_DIR.mkdir(parents=True, exist_ok=True)
+
+# -----------------------------
+# Random Seed
+# -----------------------------
+
 RANDOM_SEED = 42
 
-# Output folder
-OUTPUT_FOLDER = "../../data/generated"
+# -----------------------------
+# Date Range
+# -----------------------------
 
-# Dataset sizes
+START_DATE = "2025-01-01"
+END_DATE = "2025-12-31"
+
+# -----------------------------
+# Dataset Sizes
+# -----------------------------
+
 ROWS = {
     "dim_date": 365,
     "dim_campaign": 20,
@@ -22,7 +45,3 @@ ROWS = {
     "fact_sales": 100000,
     "fact_customer_acquisition": 10000,
 }
-
-# Date range
-START_DATE = "2025-01-01"
-END_DATE = "2025-12-31"

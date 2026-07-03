@@ -1,9 +1,10 @@
 """
-Main script for running all generators.
-
-Currently empty.
-Generators will be added sprint by sprint.
+Main entry point for generating all datasets.
 """
 
-print("ShopSphere Data Generation Pipeline")
-print("Generators will be added here.")
+print("=" * 60)
+print("ShopSphere Marketing Intelligence")
+print("Synthetic Data Generation Pipeline")
+print("=" * 60)
+
+print("\nPipeline initialized successfully.")
