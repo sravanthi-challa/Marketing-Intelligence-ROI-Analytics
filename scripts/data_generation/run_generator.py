@@ -1,10 +1,18 @@
 """
-Main entry point for generating all datasets.
+Main entry point for the data generation pipeline.
 """
 
-print("=" * 60)
-print("ShopSphere Marketing Intelligence")
-print("Synthetic Data Generation Pipeline")
-print("=" * 60)
+from config import GENERATED_DATA_DIR
+from utils import print_banner, print_success
 
-print("\nPipeline initialized successfully.")
+
+def main():
+    print_banner("Marketing Intelligence ROI Analytics")
+
+    print_success("Pipeline initialized successfully.")
+
+    print(f"\nOutput Folder:\n{GENERATED_DATA_DIR}")
+
+
+if __name__ == "__main__":
+    main()

@@ -260,3 +260,18 @@ Every date must belong to one month, one quarter, and one year.
 - Negative sales values are not allowed.
 - Duplicate acquisition records are not allowed.
 - Every fact record must reference valid dimension records.
+
+---
+
+# 11. Project Assumptions
+
+The following assumptions were made while designing the warehouse and generating synthetic data:
+
+- The business operates only in India.
+- Each customer has a single primary geography.
+- Each customer is acquired through only one marketing campaign.
+- A product belongs to only one category.
+- Campaign performance metrics are aggregated daily.
+- Sales transactions involve one product per record.
+- Acquisition Cost is an allocated value derived from campaign spend.
+- All customer and transaction data used in this project is synthetic.

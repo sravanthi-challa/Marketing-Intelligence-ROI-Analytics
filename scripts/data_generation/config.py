@@ -1,37 +1,38 @@
 """
 Project Configuration
-ShopSphere Marketing Intelligence
+Marketing Intelligence ROI Analytics
 """
 
 from pathlib import Path
 
-# -----------------------------
-# Base Paths
-# -----------------------------
+# ----------------------------
+# Project Paths
+# ----------------------------
 
 BASE_DIR = Path(__file__).resolve().parents[2]
 
 DATA_DIR = BASE_DIR / "data"
 GENERATED_DATA_DIR = DATA_DIR / "generated"
 
+# Create folder automatically if it doesn't exist
 GENERATED_DATA_DIR.mkdir(parents=True, exist_ok=True)
 
-# -----------------------------
-# Random Seed
-# -----------------------------
-
-RANDOM_SEED = 42
-
-# -----------------------------
+# ----------------------------
 # Date Range
-# -----------------------------
+# ----------------------------
 
 START_DATE = "2025-01-01"
 END_DATE = "2025-12-31"
 
-# -----------------------------
-# Dataset Sizes
-# -----------------------------
+# ----------------------------
+# Random Seed
+# ----------------------------
+
+RANDOM_SEED = 42
+
+# ----------------------------
+# Planned Dataset Sizes
+# ----------------------------
 
 ROWS = {
     "dim_date": 365,

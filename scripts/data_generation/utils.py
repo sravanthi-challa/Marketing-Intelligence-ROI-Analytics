@@ -1,19 +1,27 @@
 """
-Utility functions for data generation.
+Utility functions used across the data generation pipeline.
 """
 
 import random
 import numpy as np
+
 from config import RANDOM_SEED
+
+# ----------------------------
+# Set Random Seed
+# ----------------------------
 
 random.seed(RANDOM_SEED)
 np.random.seed(RANDOM_SEED)
 
 
-def print_summary(df, table_name):
-    """Print a summary after generating a table."""
-    print(f"\n{'=' * 50}")
-    print(f"{table_name} Generated Successfully")
-    print(f"Rows    : {len(df)}")
-    print(f"Columns : {len(df.columns)}")
-    print(f"{'=' * 50}")
+def print_banner(title):
+    """Print a formatted banner."""
+    print("\n" + "=" * 60)
+    print(title)
+    print("=" * 60)
+
+
+def print_success(message):
+    """Print a success message."""
+    print(f"✅ {message}")
