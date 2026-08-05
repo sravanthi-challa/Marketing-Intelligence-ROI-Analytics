@@ -37,7 +37,7 @@ RANDOM_SEED = 42
 ROWS = {
     "dim_date": 365,
     "dim_channel": 6,
-    "dim_geography": 4,
+    "dim_geography": 30,
     "dim_device": 6,
     "dim_product": 1000,
     "dim_campaign": 20,

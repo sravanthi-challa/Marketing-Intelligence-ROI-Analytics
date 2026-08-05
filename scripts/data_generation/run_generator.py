@@ -7,6 +7,7 @@ from utils import print_banner, print_success
 
 from generate_date import generate_dim_date
 from generate_channel import generate_dim_channel
+from generate_geography import generate_dim_geography
 
 
 def main():
@@ -23,6 +24,9 @@ def main():
 
     print(f"\nDim_Date Rows     : {len(date_df)}")
     print(f"Dim_Channel Rows  : {len(channel_df)}")
+
+    geography_df = generate_dim_geography()
+    print(f"Dim_Geography Rows : {len(geography_df)}")
 
     print_success("Pipeline completed successfully.")
 
