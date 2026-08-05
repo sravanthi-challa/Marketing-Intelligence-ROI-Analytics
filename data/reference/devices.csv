@@ -1,0 +1,7 @@
+Device_ID,Device_Type,Operating_System
+1,Mobile,Android
+2,Mobile,iOS
+3,Desktop,Windows
+4,Desktop,macOS
+5,Tablet,Android
+6,Tablet,iPadOS
