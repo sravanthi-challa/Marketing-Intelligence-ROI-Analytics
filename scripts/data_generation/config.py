@@ -39,10 +39,19 @@ ROWS = {
     "dim_channel": 6,
     "dim_geography": 30,
     "dim_device": 6,
-    "dim_product": 1000,
+    "dim_product": 500,
     "dim_campaign": 20,
     "dim_customer": 10000,
     "fact_campaign_performance": 25000,
     "fact_sales": 100000,
     "fact_customer_acquisition": 10000,
 }
+
+# ----------------------------
+# Product Generation Settings
+# ----------------------------
+
+PRODUCT_COUNT = ROWS["dim_product"]
+
+MIN_RATING = 3.5
+MAX_RATING = 5.0
