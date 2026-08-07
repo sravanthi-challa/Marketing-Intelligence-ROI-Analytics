@@ -8,6 +8,7 @@ from utils import print_banner, print_success
 from generate_date import generate_dim_date
 from generate_channel import generate_dim_channel
 from generate_geography import generate_dim_geography
+from generate_device import generate_dim_device
 
 
 def main():
@@ -27,6 +28,10 @@ def main():
 
     geography_df = generate_dim_geography()
     print(f"Dim_Geography Rows : {len(geography_df)}")
+
+    device_df = generate_dim_device()
+
+    print(f"Dim_Device Rows     : {len(device_df)}")
 
     print_success("Pipeline completed successfully.")
 
