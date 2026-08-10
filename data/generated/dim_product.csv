@@ -1,0 +1,501 @@
+Product_ID,SKU,Product_Name,Brand,Category,Sub_Category,Price,Cost,Profit_Margin,Rating,Launch_Year,Is_Active
+1,HKH-0001,Prestige Pressure Cooker,Prestige,Home & Kitchen,Cookware,24599,15220.81,38.12,3.8,2024,True
+2,HKH-0002,Milton Cookware Set,Milton,Home & Kitchen,Cookware,14125,7880.98,44.21,3.6,2020,True
+3,SPO-0003,Yonex Dumbbell Set,Yonex,Sports,Fitness,7015,5113.97,27.1,4.6,2022,True
+4,ELE-0004,Sony Bluetooth Speaker,Sony,Electronics,Tablet,109093,83709.79,23.27,4.6,2020,True
+5,ELE-0005,Dell Bluetooth Speaker,Dell,Electronics,Headphones,23379,14116.91,39.62,4.6,2019,True
+6,ELE-0006,Dell Tablet,Dell,Electronics,Mobile,114082,72554.89,36.4,3.9,2019,True
+7,ELE-0007,Apple Laptop,Apple,Electronics,Tablet,52615,29974.77,43.03,3.9,2024,True
+8,HKH-0008,Bajaj Cookware Set,Bajaj,Home & Kitchen,Appliances,6600,4792.54,27.39,3.6,2020,True
+9,BEA-0009,Nivea Lipstick,Nivea,Beauty,Skincare,1027,662.45,35.5,4.2,2025,True
+10,BEA-0010,Maybelline Moisturizer,Maybelline,Beauty,Haircare,1916,1374.81,28.25,4.6,2024,True
+11,BEA-0011,L'Oreal Shampoo,L'Oreal,Beauty,Makeup,2205,1302.83,40.91,4.1,2024,True
+12,BEA-0012,Lakme Sunscreen,Lakme,Beauty,Makeup,2856,2172.6,23.93,4.7,2020,True
+13,FAS-0013,Adidas Hoodie,Adidas,Fashion,Jeans,4886,2768.15,43.35,4.9,2023,True
+14,SPO-0014,Cosco Football,Cosco,Sports,Badminton,21977,14830.25,32.52,4.8,2024,True
+15,FAS-0015,Levi's Casual T-Shirt,Levi's,Fashion,Jeans,4540,3342.56,26.38,4.3,2024,True
+16,FAS-0016,Puma Hoodie,Puma,Fashion,Accessories,6430,3889.06,39.52,5.0,2023,True
+17,FAS-0017,Puma Running Shoes,Puma,Fashion,Shoes,3004,2123.41,29.31,4.7,2022,True
+18,ELE-0018,Lenovo Gaming Mouse,Lenovo,Electronics,Smartwatch,81104,64804.56,20.1,4.3,2023,True
+19,FAS-0019,Puma Sneakers,Puma,Fashion,Shoes,2376,1711.74,27.96,4.3,2021,True
+20,FAS-0020,Puma Running Shoes,Puma,Fashion,Jeans,5308,3496.33,34.13,4.2,2024,True
+21,FAS-0021,Levi's Sports Jacket,Levi's,Fashion,Jeans,3427,2319.81,32.31,3.7,2024,True
+22,ELE-0022,Lenovo Smartwatch,Lenovo,Electronics,Tablet,23032,14820.6,35.65,3.7,2025,True
+23,HKH-0023,Prestige Cookware Set,Prestige,Home & Kitchen,Cookware,10921,7340.57,32.78,3.7,2021,True
+24,HKH-0024,Prestige Mixer Grinder,Prestige,Home & Kitchen,Appliances,2198,1341.26,38.98,4.4,2019,True
+25,SPO-0025,Cosco Cricket Bat,Cosco,Sports,Football,25423,17368.4,31.68,3.7,2024,True
+26,ELE-0026,Apple Wireless Earbuds,Apple,Electronics,Tablet,37741,25736.28,31.81,4.4,2020,True
+27,ELE-0027,Apple Bluetooth Speaker,Apple,Electronics,Laptop,55296,44169.74,20.12,4.5,2022,True
+28,SPO-0028,Cosco Cricket Bat,Cosco,Sports,Football,8623,5227.04,39.38,4.0,2023,True
+29,SPO-0029,Decathlon Cricket Bat,Decathlon,Sports,Cricket,2826,2054.39,27.3,3.6,2019,True
+30,HKH-0030,Prestige Pressure Cooker,Prestige,Home & Kitchen,Appliances,17147,10451.12,39.05,4.5,2020,True
+31,BEA-0031,Lakme Lipstick,Lakme,Beauty,Perfume,4074,3063.14,24.81,3.8,2019,True
+32,HKH-0032,Bajaj Water Bottle,Bajaj,Home & Kitchen,Appliances,13770,9181.23,33.32,4.6,2024,True
+33,FAS-0033,Adidas Running Shoes,Adidas,Fashion,Shoes,7096,5194.65,26.79,4.7,2019,True
+34,ELE-0034,Dell Monitor,Dell,Electronics,Laptop,21373,14009.37,34.45,3.9,2020,True
+35,SPO-0035,Decathlon Yoga Mat,Decathlon,Sports,Fitness,26977,20646.5,23.47,4.3,2019,True
+36,BEA-0036,L'Oreal Face Serum,L'Oreal,Beauty,Skincare,2136,1263.61,40.84,4.2,2020,True
+37,HKH-0037,Milton Mixer Grinder,Milton,Home & Kitchen,Cookware,12718,7001.75,44.95,4.1,2025,True
+38,HKH-0038,Bajaj Water Bottle,Bajaj,Home & Kitchen,Appliances,23125,18253.24,21.07,5.0,2023,True
+39,ELE-0039,Dell Wireless Earbuds,Dell,Electronics,Smartwatch,27890,17408.3,37.58,5.0,2023,True
+40,BEA-0040,Maybelline Sunscreen,Maybelline,Beauty,Skincare,2769,1562.52,43.57,4.4,2023,True
+41,FAS-0041,Adidas Casual T-Shirt,Adidas,Fashion,Accessories,1431,1130.77,20.98,3.6,2020,True
+42,FAS-0042,H&M Sneakers,H&M,Fashion,Shoes,4353,2833.56,34.91,4.9,2023,True
+43,FAS-0043,Levi's Running Shoes,Levi's,Fashion,Accessories,1843,1206.81,34.52,4.4,2023,True
+44,ELE-0044,HP Smartwatch,HP,Electronics,Headphones,90782,66184.43,27.1,3.9,2022,True
+45,BEA-0045,Maybelline Face Wash,Maybelline,Beauty,Haircare,2790,2182.49,21.77,4.9,2019,True
+46,SPO-0046,Cosco Cricket Bat,Cosco,Sports,Fitness,18117,10929.78,39.67,3.9,2021,True
+47,SPO-0047,Decathlon Badminton Racket,Decathlon,Sports,Cricket,9838,5798.88,41.06,4.8,2024,True
+48,SPO-0048,Decathlon Sports Bag,Decathlon,Sports,Fitness,27274,18782.26,31.13,4.9,2019,True
+49,ELE-0049,Apple Bluetooth Speaker,Apple,Electronics,Laptop,18129,14003.35,22.76,4.6,2020,True
+50,HKH-0050,Philips Storage Box,Philips,Home & Kitchen,Storage,11535,6931.37,39.91,4.5,2021,True
+51,HKH-0051,Bajaj Pressure Cooker,Bajaj,Home & Kitchen,Appliances,3324,2355.29,29.14,4.7,2019,True
+52,SPO-0052,Decathlon Sports Bag,Decathlon,Sports,Cricket,9083,5362.56,40.96,4.2,2024,True
+53,FAS-0053,H&M Running Shoes,H&M,Fashion,Shoes,1732,1361.81,21.37,4.5,2020,True
+54,HKH-0054,Milton Cookware Set,Milton,Home & Kitchen,Appliances,18405,10804.17,41.3,3.7,2021,True
+55,SPO-0055,Cosco Badminton Racket,Cosco,Sports,Fitness,7383,5319.57,27.95,4.5,2021,True
+56,FAS-0056,Levi's Sports Jacket,Levi's,Fashion,Jackets,3032,2369.33,21.86,3.9,2020,False
+57,ELE-0057,Dell Gaming Mouse,Dell,Electronics,Laptop,6248,3716.56,40.52,4.9,2025,True
+58,FAS-0058,Puma Jeans,Puma,Fashion,T-Shirts,3108,2321.19,25.32,3.7,2025,True
+59,FAS-0059,Puma Casual T-Shirt,Puma,Fashion,Jackets,3769,2842.38,24.59,4.2,2021,True
+60,ELE-0060,HP Smartwatch,HP,Electronics,Laptop,6101,4362.27,28.5,4.1,2021,True
+61,ELE-0061,Sony Tablet,Sony,Electronics,Headphones,87080,58983.76,32.26,4.5,2025,True
+62,ELE-0062,Sony Laptop,Sony,Electronics,Mobile,117955,93491.15,20.74,3.8,2021,True
+63,FAS-0063,Levi's Hoodie,Levi's,Fashion,Accessories,6163,4512.16,26.79,4.0,2023,False
+64,HKH-0064,Prestige Water Bottle,Prestige,Home & Kitchen,Cookware,19193,11468.2,40.25,3.6,2022,True
+65,BEA-0065,L'Oreal Moisturizer,L'Oreal,Beauty,Makeup,3733,2118.45,43.25,4.5,2021,True
+66,ELE-0066,Dell Bluetooth Speaker,Dell,Electronics,Mobile,69469,43579.37,37.27,4.1,2022,True
+67,ELE-0067,HP Wireless Earbuds,HP,Electronics,Tablet,28144,18437.46,34.49,4.9,2024,True
+68,HKH-0068,Milton Cookware Set,Milton,Home & Kitchen,Storage,18948,11847.0,37.48,4.3,2019,True
+69,BEA-0069,Nivea Face Wash,Nivea,Beauty,Makeup,4951,3473.95,29.83,4.0,2022,True
+70,SPO-0070,Cosco Dumbbell Set,Cosco,Sports,Cricket,16005,11978.68,25.16,4.9,2024,True
+71,FAS-0071,Levi's Jeans,Levi's,Fashion,Shoes,8945,6404.29,28.4,4.4,2019,True
+72,ELE-0072,Dell Bluetooth Speaker,Dell,Electronics,Laptop,32444,24386.23,24.84,3.7,2019,True
+73,BEA-0073,Lakme Shampoo,Lakme,Beauty,Perfume,796,528.43,33.61,4.8,2023,True
+74,FAS-0074,Nike Hoodie,Nike,Fashion,Jackets,7047,4305.69,38.9,4.5,2019,True
+75,ELE-0075,Dell Gaming Mouse,Dell,Electronics,Mobile,31683,18818.8,40.6,4.9,2023,True
+76,BEA-0076,Lakme Face Serum,Lakme,Beauty,Makeup,3939,2297.76,41.67,4.2,2023,False
+77,ELE-0077,Lenovo Tablet,Lenovo,Electronics,Tablet,101992,78825.18,22.71,4.4,2024,True
+78,BEA-0078,Maybelline Shampoo,Maybelline,Beauty,Perfume,3852,2982.61,22.57,4.6,2022,True
+79,FAS-0079,Puma Sneakers,Puma,Fashion,T-Shirts,5043,3739.15,25.85,4.3,2024,True
+80,HKH-0080,Prestige Pressure Cooker,Prestige,Home & Kitchen,Furniture,23681,14716.13,37.86,3.9,2021,True
+81,FAS-0081,Adidas Casual T-Shirt,Adidas,Fashion,Shoes,2971,1805.82,39.22,4.5,2024,True
+82,FAS-0082,H&M Hoodie,H&M,Fashion,Jackets,5921,4059.75,31.43,4.1,2020,True
+83,FAS-0083,Nike Sports Jacket,Nike,Fashion,Jackets,820,626.63,23.58,4.6,2022,True
+84,ELE-0084,Dell Bluetooth Speaker,Dell,Electronics,Headphones,101759,65888.61,35.25,4.8,2025,True
+85,ELE-0085,HP Smartwatch,HP,Electronics,Tablet,66993,40521.08,39.51,4.2,2019,True
+86,SPO-0086,Cosco Sports Bag,Cosco,Sports,Football,5908,4490.83,23.99,4.9,2023,True
+87,SPO-0087,Yonex Dumbbell Set,Yonex,Sports,Football,18993,13594.24,28.42,3.6,2022,True
+88,ELE-0088,Samsung Wireless Earbuds,Samsung,Electronics,Smartwatch,9590,5898.22,38.5,4.0,2022,True
+89,SPO-0089,Cosco Badminton Racket,Cosco,Sports,Football,25141,19806.11,21.22,4.1,2025,True
+90,SPO-0090,Cosco Sports Bag,Cosco,Sports,Fitness,18175,10232.91,43.7,4.9,2020,True
+91,SPO-0091,Wilson Cricket Bat,Wilson,Sports,Fitness,8602,5159.83,40.02,3.5,2020,True
+92,ELE-0092,Sony Laptop,Sony,Electronics,Smartwatch,76920,60531.37,21.31,4.2,2021,True
+93,FAS-0093,Nike Sports Jacket,Nike,Fashion,T-Shirts,2376,1768.81,25.56,3.7,2021,True
+94,HKH-0094,Prestige Air Fryer,Prestige,Home & Kitchen,Cookware,19167,13787.53,28.07,4.9,2022,True
+95,ELE-0095,HP Laptop,HP,Electronics,Laptop,80607,58250.94,27.73,4.4,2019,True
+96,SPO-0096,Cosco Sports Bag,Cosco,Sports,Badminton,20174,15158.38,24.86,4.7,2023,True
+97,HKH-0097,Philips Cookware Set,Philips,Home & Kitchen,Appliances,14337,10256.41,28.46,3.6,2024,True
+98,ELE-0098,Dell Monitor,Dell,Electronics,Smartwatch,16833,11082.52,34.16,4.0,2025,True
+99,HKH-0099,Philips Water Bottle,Philips,Home & Kitchen,Storage,6071,4452.77,26.66,4.9,2021,True
+100,BEA-0100,Lakme Face Wash,Lakme,Beauty,Perfume,3768,2850.24,24.36,4.4,2021,True
+101,ELE-0101,Sony Bluetooth Speaker,Sony,Electronics,Mobile,118557,78567.78,33.73,4.6,2023,True
+102,BEA-0102,Maybelline Moisturizer,Maybelline,Beauty,Perfume,435,293.01,32.64,4.0,2022,True
+103,FAS-0103,Puma Jeans,Puma,Fashion,Jeans,5081,3912.78,22.99,4.6,2021,True
+104,FAS-0104,Adidas Casual T-Shirt,Adidas,Fashion,Accessories,1902,1160.86,38.97,4.1,2023,True
+105,ELE-0105,Apple Monitor,Apple,Electronics,Smartwatch,61743,46198.16,25.18,3.6,2020,True
+106,HKH-0106,Bajaj Air Fryer,Bajaj,Home & Kitchen,Storage,22056,15337.5,30.46,4.2,2023,True
+107,SPO-0107,Yonex Badminton Racket,Yonex,Sports,Badminton,23531,15611.32,33.66,4.0,2020,True
+108,FAS-0108,Puma Jeans,Puma,Fashion,T-Shirts,2458,1808.4,26.43,4.9,2024,True
+109,SPO-0109,Wilson Sports Bag,Wilson,Sports,Cricket,16366,10132.6,38.09,4.4,2025,True
+110,HKH-0110,Milton Pressure Cooker,Milton,Home & Kitchen,Appliances,6660,4156.25,37.59,4.0,2021,True
+111,FAS-0111,Levi's Casual T-Shirt,Levi's,Fashion,Accessories,4994,2803.53,43.86,3.6,2021,True
+112,ELE-0112,Samsung Monitor,Samsung,Electronics,Laptop,16446,12633.49,23.18,4.4,2022,True
+113,BEA-0113,L'Oreal Lipstick,L'Oreal,Beauty,Haircare,620,380.13,38.69,4.8,2019,True
+114,FAS-0114,Puma Hoodie,Puma,Fashion,Jackets,1713,1189.26,30.57,4.5,2020,True
+115,BEA-0115,Maybelline Face Serum,Maybelline,Beauty,Haircare,2233,1294.28,42.04,4.6,2023,True
+116,BEA-0116,Maybelline Shampoo,Maybelline,Beauty,Makeup,3316,2197.28,33.74,4.2,2025,True
+117,HKH-0117,Philips Air Fryer,Philips,Home & Kitchen,Furniture,18932,13351.92,29.47,4.4,2024,True
+118,ELE-0118,Apple Smartwatch,Apple,Electronics,Laptop,37687,26950.24,28.49,3.7,2020,True
+119,SPO-0119,Wilson Cricket Bat,Wilson,Sports,Cricket,13886,9201.22,33.74,4.4,2021,True
+120,BEA-0120,Maybelline Sunscreen,Maybelline,Beauty,Haircare,2516,1825.98,27.43,4.2,2024,True
+121,SPO-0121,Cosco Sports Bag,Cosco,Sports,Badminton,19826,14181.45,28.47,4.9,2022,True
+122,BEA-0122,L'Oreal Sunscreen,L'Oreal,Beauty,Makeup,1420,1103.49,22.29,4.7,2019,True
+123,SPO-0123,Wilson Dumbbell Set,Wilson,Sports,Badminton,25041,18932.5,24.39,4.9,2022,True
+124,ELE-0124,Samsung Gaming Mouse,Samsung,Electronics,Headphones,38683,26115.59,32.49,4.2,2019,True
+125,HKH-0125,Bajaj Storage Box,Bajaj,Home & Kitchen,Furniture,10861,7612.78,29.91,3.5,2020,False
+126,BEA-0126,L'Oreal Sunscreen,L'Oreal,Beauty,Skincare,2407,1670.61,30.59,4.6,2020,True
+127,FAS-0127,H&M Jeans,H&M,Fashion,Jackets,3473,2775.75,20.08,4.2,2025,True
+128,ELE-0128,Apple Monitor,Apple,Electronics,Mobile,48607,31695.99,34.79,4.0,2019,True
+129,FAS-0129,Puma Hoodie,Puma,Fashion,Jeans,8617,5360.24,37.79,4.9,2025,True
+130,HKH-0130,Milton Water Bottle,Milton,Home & Kitchen,Cookware,3185,2002.18,37.14,4.0,2025,True
+131,HKH-0131,Prestige Storage Box,Prestige,Home & Kitchen,Cookware,18079,12031.47,33.45,3.6,2023,True
+132,ELE-0132,Sony Monitor,Sony,Electronics,Smartwatch,102613,57761.16,43.71,3.9,2020,True
+133,ELE-0133,Lenovo Monitor,Lenovo,Electronics,Smartwatch,18915,10539.77,44.28,4.4,2025,True
+134,ELE-0134,Sony Bluetooth Speaker,Sony,Electronics,Laptop,75199,41616.53,44.66,4.1,2020,False
+135,HKH-0135,Bajaj Water Bottle,Bajaj,Home & Kitchen,Cookware,4149,2953.79,28.81,3.7,2024,True
+136,ELE-0136,HP Gaming Mouse,HP,Electronics,Headphones,112408,75383.6,32.94,4.2,2022,True
+137,SPO-0137,Wilson Football,Wilson,Sports,Football,20140,13635.99,32.29,4.8,2025,True
+138,SPO-0138,Yonex Badminton Racket,Yonex,Sports,Football,26311,17810.82,32.31,4.7,2021,True
+139,FAS-0139,Levi's Sports Jacket,Levi's,Fashion,Accessories,8522,6530.54,23.37,4.2,2022,True
+140,BEA-0140,Maybelline Face Wash,Maybelline,Beauty,Perfume,2836,2176.35,23.26,5.0,2020,True
+141,SPO-0141,Yonex Yoga Mat,Yonex,Sports,Cricket,1930,1215.02,37.05,4.2,2025,True
+142,FAS-0142,Levi's Hoodie,Levi's,Fashion,T-Shirts,1106,643.21,41.84,4.9,2021,True
+143,FAS-0143,Levi's Running Shoes,Levi's,Fashion,Jackets,9117,7089.47,22.24,3.5,2020,True
+144,BEA-0144,Lakme Face Serum,Lakme,Beauty,Makeup,4046,3015.81,25.46,3.9,2023,True
+145,SPO-0145,Wilson Badminton Racket,Wilson,Sports,Fitness,28429,20428.78,28.14,4.3,2021,True
+146,BEA-0146,L'Oreal Shampoo,L'Oreal,Beauty,Perfume,494,347.96,29.56,3.9,2024,True
+147,BEA-0147,Nivea Sunscreen,Nivea,Beauty,Makeup,940,618.98,34.15,3.6,2024,True
+148,FAS-0148,H&M Hoodie,H&M,Fashion,Shoes,3225,2333.29,27.65,4.9,2019,True
+149,SPO-0149,Decathlon Badminton Racket,Decathlon,Sports,Fitness,12246,7882.88,35.63,3.7,2023,True
+150,ELE-0150,HP Wireless Earbuds,HP,Electronics,Laptop,25946,14782.53,43.03,4.8,2023,True
+151,ELE-0151,Lenovo Wireless Earbuds,Lenovo,Electronics,Smartwatch,33433,22242.56,33.47,3.9,2021,True
+152,SPO-0152,Decathlon Badminton Racket,Decathlon,Sports,Football,22703,15589.0,31.34,3.6,2021,False
+153,FAS-0153,H&M Sneakers,H&M,Fashion,Jeans,7451,5383.93,27.74,4.2,2021,True
+154,ELE-0154,HP Monitor,HP,Electronics,Smartwatch,16979,10345.33,39.07,4.4,2023,True
+155,ELE-0155,Dell Smartphone,Dell,Electronics,Headphones,111794,79883.24,28.54,3.9,2023,True
+156,BEA-0156,Maybelline Shampoo,Maybelline,Beauty,Skincare,4269,3236.8,24.18,4.9,2025,True
+157,BEA-0157,Maybelline Lipstick,Maybelline,Beauty,Haircare,1757,1239.08,29.48,4.5,2024,True
+158,HKH-0158,Bajaj Storage Box,Bajaj,Home & Kitchen,Storage,3483,2702.29,22.41,4.5,2021,True
+159,FAS-0159,Puma Sports Jacket,Puma,Fashion,Shoes,6477,4748.22,26.69,3.6,2021,True
+160,FAS-0160,Levi's Casual T-Shirt,Levi's,Fashion,Jackets,3789,2209.14,41.7,4.3,2021,True
+161,ELE-0161,Lenovo Wireless Earbuds,Lenovo,Electronics,Headphones,36681,28556.61,22.15,4.9,2025,True
+162,FAS-0162,Puma Running Shoes,Puma,Fashion,Jeans,8173,6462.58,20.93,3.7,2020,True
+163,SPO-0163,Yonex Dumbbell Set,Yonex,Sports,Football,12485,7148.61,42.74,4.1,2021,True
+164,SPO-0164,Wilson Badminton Racket,Wilson,Sports,Football,22547,16622.84,26.27,3.9,2022,True
+165,FAS-0165,Levi's Running Shoes,Levi's,Fashion,Jeans,4330,2891.87,33.21,4.4,2023,True
+166,BEA-0166,Lakme Sunscreen,Lakme,Beauty,Makeup,717,508.25,29.11,4.2,2024,True
+167,HKH-0167,Philips Pressure Cooker,Philips,Home & Kitchen,Furniture,4880,2739.32,43.87,3.6,2022,True
+168,ELE-0168,Samsung Wireless Earbuds,Samsung,Electronics,Laptop,53940,35784.39,33.66,4.5,2024,True
+169,SPO-0169,Decathlon Dumbbell Set,Decathlon,Sports,Football,24822,18161.01,26.84,4.8,2024,True
+170,SPO-0170,Cosco Dumbbell Set,Cosco,Sports,Football,13873,10887.02,21.52,3.9,2024,True
+171,BEA-0171,Nivea Face Wash,Nivea,Beauty,Perfume,2134,1630.08,23.61,3.6,2024,True
+172,SPO-0172,Yonex Cricket Bat,Yonex,Sports,Badminton,13546,8384.57,38.1,5.0,2025,True
+173,FAS-0173,Adidas Sneakers,Adidas,Fashion,Shoes,3975,2823.94,28.96,4.4,2019,True
+174,FAS-0174,H&M Casual T-Shirt,H&M,Fashion,Jeans,2563,1913.91,25.33,3.8,2025,True
+175,BEA-0175,Maybelline Shampoo,Maybelline,Beauty,Makeup,1969,1483.18,24.67,3.8,2025,True
+176,HKH-0176,Milton Air Fryer,Milton,Home & Kitchen,Cookware,5041,4017.08,20.31,4.3,2025,True
+177,BEA-0177,Nivea Lipstick,Nivea,Beauty,Skincare,321,205.3,36.04,4.7,2023,True
+178,HKH-0178,Milton Air Fryer,Milton,Home & Kitchen,Storage,2017,1173.27,41.83,4.1,2019,True
+179,ELE-0179,Lenovo Monitor,Lenovo,Electronics,Smartwatch,104976,67238.15,35.95,4.4,2022,True
+180,ELE-0180,Apple Smartphone,Apple,Electronics,Tablet,98321,73328.47,25.42,4.8,2023,True
+181,FAS-0181,Levi's Running Shoes,Levi's,Fashion,Shoes,8347,6358.95,23.82,4.1,2019,True
+182,FAS-0182,Puma Running Shoes,Puma,Fashion,Jackets,1823,1149.45,36.95,3.7,2020,True
+183,ELE-0183,Samsung Tablet,Samsung,Electronics,Tablet,52925,42268.92,20.13,4.3,2022,True
+184,ELE-0184,Lenovo Laptop,Lenovo,Electronics,Smartwatch,106952,77587.78,27.46,4.8,2024,True
+185,SPO-0185,Yonex Yoga Mat,Yonex,Sports,Cricket,15296,11808.86,22.8,4.1,2025,True
+186,BEA-0186,Nivea Sunscreen,Nivea,Beauty,Perfume,978,614.32,37.19,4.0,2021,True
+187,FAS-0187,Levi's Sneakers,Levi's,Fashion,T-Shirts,8270,4687.3,43.32,4.7,2019,True
+188,FAS-0188,Levi's Casual T-Shirt,Levi's,Fashion,Jeans,9615,5432.43,43.5,4.9,2023,True
+189,HKH-0189,Milton Water Bottle,Milton,Home & Kitchen,Cookware,11886,9133.22,23.16,4.9,2022,True
+190,SPO-0190,Decathlon Badminton Racket,Decathlon,Sports,Fitness,20174,12671.54,37.19,3.7,2023,True
+191,BEA-0191,Lakme Lipstick,Lakme,Beauty,Perfume,1086,692.36,36.25,4.3,2019,True
+192,BEA-0192,Maybelline Face Wash,Maybelline,Beauty,Makeup,4795,3805.49,20.64,4.7,2023,True
+193,SPO-0193,Decathlon Dumbbell Set,Decathlon,Sports,Fitness,22055,16703.69,24.26,3.9,2020,True
+194,SPO-0194,Wilson Badminton Racket,Wilson,Sports,Badminton,12002,6619.42,44.85,4.8,2023,True
+195,ELE-0195,HP Wireless Earbuds,HP,Electronics,Mobile,100120,70914.3,29.17,3.5,2024,True
+196,HKH-0196,Philips Water Bottle,Philips,Home & Kitchen,Furniture,15165,9633.17,36.48,4.1,2024,True
+197,BEA-0197,Nivea Face Serum,Nivea,Beauty,Skincare,1474,868.71,41.06,4.4,2024,True
+198,SPO-0198,Wilson Sports Bag,Wilson,Sports,Football,14394,9664.35,32.86,4.2,2021,True
+199,SPO-0199,Yonex Badminton Racket,Yonex,Sports,Fitness,14587,8427.24,42.23,4.5,2023,True
+200,FAS-0200,Nike Running Shoes,Nike,Fashion,Jeans,4112,2667.93,35.12,4.4,2019,True
+201,FAS-0201,Puma Casual T-Shirt,Puma,Fashion,T-Shirts,4686,2916.39,37.76,3.7,2022,True
+202,FAS-0202,Nike Casual T-Shirt,Nike,Fashion,T-Shirts,6729,4596.89,31.69,3.8,2023,True
+203,HKH-0203,Bajaj Pressure Cooker,Bajaj,Home & Kitchen,Appliances,13311,10188.79,23.46,3.6,2019,True
+204,FAS-0204,Nike Jeans,Nike,Fashion,Shoes,9933,6529.17,34.27,4.1,2024,True
+205,ELE-0205,Sony Gaming Mouse,Sony,Electronics,Mobile,5733,4537.96,20.84,3.8,2023,True
+206,FAS-0206,Puma Running Shoes,Puma,Fashion,Jeans,7655,5826.38,23.89,3.9,2023,True
+207,FAS-0207,H&M Hoodie,H&M,Fashion,Shoes,5583,4111.61,26.35,3.8,2025,True
+208,HKH-0208,Philips Cookware Set,Philips,Home & Kitchen,Cookware,17010,10180.08,40.15,4.7,2021,True
+209,SPO-0209,Wilson Football,Wilson,Sports,Cricket,3868,2269.01,41.34,3.8,2023,True
+210,ELE-0210,Lenovo Wireless Earbuds,Lenovo,Electronics,Mobile,104298,73737.35,29.3,4.2,2023,True
+211,BEA-0211,Nivea Sunscreen,Nivea,Beauty,Perfume,4824,3428.65,28.93,5.0,2021,True
+212,FAS-0212,H&M Casual T-Shirt,H&M,Fashion,Jeans,7705,4369.29,43.29,4.2,2021,True
+213,SPO-0213,Cosco Badminton Racket,Cosco,Sports,Fitness,17124,9735.81,43.15,4.2,2019,True
+214,FAS-0214,Nike Running Shoes,Nike,Fashion,Jeans,1979,1392.73,29.62,4.3,2022,True
+215,ELE-0215,Apple Monitor,Apple,Electronics,Mobile,109144,75627.42,30.71,3.8,2023,True
+216,ELE-0216,Dell Smartphone,Dell,Electronics,Laptop,62050,35733.07,42.41,4.8,2021,False
+217,ELE-0217,Sony Wireless Earbuds,Sony,Electronics,Mobile,8130,4975.04,38.81,4.2,2022,True
+218,ELE-0218,HP Wireless Earbuds,HP,Electronics,Tablet,50696,32608.33,35.68,3.9,2022,True
+219,ELE-0219,Apple Smartphone,Apple,Electronics,Tablet,106445,75333.43,29.23,4.0,2021,True
+220,FAS-0220,H&M Jeans,H&M,Fashion,Jackets,4628,3382.76,26.91,4.5,2023,True
+221,ELE-0221,HP Laptop,HP,Electronics,Headphones,79380,56828.38,28.41,4.9,2021,False
+222,SPO-0222,Cosco Football,Cosco,Sports,Football,19998,14542.72,27.28,3.6,2023,True
+223,SPO-0223,Wilson Football,Wilson,Sports,Badminton,22458,16297.94,27.43,4.9,2024,True
+224,FAS-0224,Nike Sneakers,Nike,Fashion,Shoes,7437,5035.76,32.29,3.5,2021,True
+225,HKH-0225,Milton Air Fryer,Milton,Home & Kitchen,Storage,16234,9707.95,40.2,5.0,2020,True
+226,FAS-0226,Puma Sports Jacket,Puma,Fashion,Shoes,9343,7089.28,24.12,4.8,2019,True
+227,ELE-0227,Dell Wireless Earbuds,Dell,Electronics,Tablet,81282,52360.24,35.58,3.7,2025,True
+228,FAS-0228,Puma Casual T-Shirt,Puma,Fashion,Accessories,7670,4302.28,43.91,4.0,2024,True
+229,FAS-0229,Nike Sports Jacket,Nike,Fashion,Jackets,5168,3814.49,26.19,4.7,2020,True
+230,SPO-0230,Cosco Yoga Mat,Cosco,Sports,Badminton,27864,16676.72,40.15,4.5,2023,False
+231,ELE-0231,Samsung Bluetooth Speaker,Samsung,Electronics,Smartwatch,104990,67767.7,35.45,4.3,2020,True
+232,BEA-0232,Maybelline Moisturizer,Maybelline,Beauty,Makeup,627,445.35,28.97,4.8,2023,True
+233,SPO-0233,Decathlon Badminton Racket,Decathlon,Sports,Fitness,3248,2406.05,25.92,3.9,2023,True
+234,HKH-0234,Bajaj Pressure Cooker,Bajaj,Home & Kitchen,Furniture,7575,5712.88,24.58,4.8,2019,True
+235,FAS-0235,H&M Sports Jacket,H&M,Fashion,Jackets,6626,4034.87,39.11,5.0,2021,True
+236,FAS-0236,Levi's Running Shoes,Levi's,Fashion,Jeans,5993,4481.84,25.22,3.7,2021,True
+237,FAS-0237,Puma Sneakers,Puma,Fashion,Jackets,2773,2051.22,26.03,4.2,2023,True
+238,ELE-0238,Sony Smartphone,Sony,Electronics,Mobile,36544,22069.42,39.61,3.7,2024,True
+239,ELE-0239,Sony Laptop,Sony,Electronics,Smartwatch,104734,65147.21,37.8,4.0,2019,True
+240,HKH-0240,Milton Pressure Cooker,Milton,Home & Kitchen,Furniture,3932,2985.06,24.08,4.2,2023,True
+241,ELE-0241,HP Smartwatch,HP,Electronics,Tablet,97181,56937.79,41.41,4.1,2023,True
+242,BEA-0242,Nivea Lipstick,Nivea,Beauty,Perfume,901,613.46,31.91,4.0,2023,True
+243,FAS-0243,Puma Sports Jacket,Puma,Fashion,Accessories,833,539.46,35.24,4.2,2024,True
+244,HKH-0244,Prestige Air Fryer,Prestige,Home & Kitchen,Appliances,24788,13734.05,44.59,4.7,2021,True
+245,HKH-0245,Milton Cookware Set,Milton,Home & Kitchen,Cookware,24390,18028.35,26.08,3.7,2021,True
+246,HKH-0246,Philips Storage Box,Philips,Home & Kitchen,Storage,15524,12344.76,20.48,4.2,2020,True
+247,HKH-0247,Bajaj Storage Box,Bajaj,Home & Kitchen,Cookware,15297,8554.79,44.08,3.8,2025,True
+248,FAS-0248,Puma Jeans,Puma,Fashion,Shoes,5580,3787.96,32.12,5.0,2023,True
+249,HKH-0249,Prestige Storage Box,Prestige,Home & Kitchen,Cookware,6562,4078.46,37.85,4.8,2019,True
+250,HKH-0250,Philips Air Fryer,Philips,Home & Kitchen,Appliances,4378,3282.78,25.02,4.2,2022,True
+251,ELE-0251,Dell Tablet,Dell,Electronics,Smartwatch,27486,18526.96,32.59,4.2,2025,True
+252,BEA-0252,Lakme Sunscreen,Lakme,Beauty,Skincare,3677,2094.9,43.03,4.4,2025,True
+253,SPO-0253,Decathlon Badminton Racket,Decathlon,Sports,Badminton,3861,2200.84,43.0,4.5,2021,True
+254,FAS-0254,Puma Casual T-Shirt,Puma,Fashion,Jackets,7772,4957.66,36.21,3.6,2025,True
+255,HKH-0255,Milton Air Fryer,Milton,Home & Kitchen,Furniture,21254,16897.07,20.5,4.9,2019,True
+256,HKH-0256,Milton Air Fryer,Milton,Home & Kitchen,Furniture,17112,12838.69,24.97,4.5,2019,True
+257,BEA-0257,Lakme Face Serum,Lakme,Beauty,Perfume,1234,699.44,43.32,4.7,2021,True
+258,HKH-0258,Bajaj Cookware Set,Bajaj,Home & Kitchen,Cookware,5327,3834.19,28.02,4.9,2021,True
+259,BEA-0259,Lakme Shampoo,Lakme,Beauty,Skincare,1327,905.5,31.76,4.1,2024,True
+260,SPO-0260,Yonex Cricket Bat,Yonex,Sports,Fitness,24606,14677.77,40.35,4.3,2023,True
+261,ELE-0261,Sony Monitor,Sony,Electronics,Headphones,31124,24870.92,20.09,3.9,2022,True
+262,ELE-0262,Lenovo Laptop,Lenovo,Electronics,Laptop,62250,36924.46,40.68,4.6,2019,True
+263,ELE-0263,Samsung Tablet,Samsung,Electronics,Headphones,96000,54358.54,43.38,4.3,2021,True
+264,FAS-0264,Adidas Jeans,Adidas,Fashion,T-Shirts,8835,5354.54,39.39,5.0,2025,True
+265,ELE-0265,Lenovo Smartphone,Lenovo,Electronics,Smartwatch,50303,34633.89,31.15,4.1,2025,False
+266,FAS-0266,Puma Sports Jacket,Puma,Fashion,T-Shirts,1912,1083.03,43.36,4.1,2024,True
+267,SPO-0267,Yonex Yoga Mat,Yonex,Sports,Football,27479,19062.87,30.63,3.7,2021,True
+268,ELE-0268,Dell Monitor,Dell,Electronics,Smartwatch,92143,62596.43,32.07,3.7,2025,True
+269,ELE-0269,HP Wireless Earbuds,HP,Electronics,Tablet,103634,82033.17,20.84,4.1,2025,True
+270,ELE-0270,Samsung Wireless Earbuds,Samsung,Electronics,Mobile,42862,25338.48,40.88,4.0,2024,True
+271,FAS-0271,Levi's Jeans,Levi's,Fashion,Accessories,1792,1097.87,38.73,4.5,2023,True
+272,ELE-0272,HP Laptop,HP,Electronics,Headphones,68873,48916.83,28.98,4.4,2023,True
+273,BEA-0273,L'Oreal Shampoo,L'Oreal,Beauty,Haircare,537,406.14,24.37,3.5,2019,True
+274,SPO-0274,Wilson Sports Bag,Wilson,Sports,Badminton,7407,5494.07,25.83,4.1,2024,True
+275,HKH-0275,Milton Storage Box,Milton,Home & Kitchen,Appliances,10199,6840.84,32.93,4.7,2024,True
+276,FAS-0276,Puma Running Shoes,Puma,Fashion,Jackets,1481,873.08,41.05,4.1,2022,True
+277,ELE-0277,HP Wireless Earbuds,HP,Electronics,Tablet,43970,33653.37,23.46,4.0,2025,True
+278,ELE-0278,Apple Wireless Earbuds,Apple,Electronics,Smartwatch,102701,65999.26,35.74,4.3,2021,True
+279,BEA-0279,L'Oreal Moisturizer,L'Oreal,Beauty,Skincare,3883,2376.32,38.8,3.6,2021,True
+280,SPO-0280,Wilson Football,Wilson,Sports,Football,28854,22378.52,22.44,4.7,2023,True
+281,ELE-0281,Sony Wireless Earbuds,Sony,Electronics,Laptop,68308,54577.57,20.1,4.2,2021,True
+282,ELE-0282,HP Gaming Mouse,HP,Electronics,Mobile,69249,46002.64,33.57,3.9,2023,True
+283,SPO-0283,Yonex Badminton Racket,Yonex,Sports,Fitness,16716,11690.83,30.06,4.8,2024,True
+284,BEA-0284,Nivea Face Serum,Nivea,Beauty,Skincare,3730,2176.39,41.65,3.9,2021,True
+285,FAS-0285,Puma Running Shoes,Puma,Fashion,Jeans,7063,3974.98,43.72,4.3,2021,True
+286,HKH-0286,Milton Water Bottle,Milton,Home & Kitchen,Cookware,16823,11146.73,33.74,4.3,2025,False
+287,ELE-0287,Apple Laptop,Apple,Electronics,Tablet,19864,15767.46,20.62,4.1,2025,False
+288,HKH-0288,Milton Mixer Grinder,Milton,Home & Kitchen,Appliances,6822,4779.6,29.94,4.1,2019,True
+289,FAS-0289,Nike Sneakers,Nike,Fashion,T-Shirts,5956,4472.91,24.9,4.3,2020,True
+290,SPO-0290,Yonex Badminton Racket,Yonex,Sports,Cricket,20589,12963.5,37.04,4.1,2023,True
+291,FAS-0291,Levi's Sports Jacket,Levi's,Fashion,Jeans,6011,4068.42,32.32,4.3,2022,True
+292,ELE-0292,Apple Monitor,Apple,Electronics,Headphones,109921,60913.74,44.58,4.0,2019,False
+293,SPO-0293,Decathlon Sports Bag,Decathlon,Sports,Badminton,29076,20993.19,27.8,3.5,2022,True
+294,HKH-0294,Bajaj Storage Box,Bajaj,Home & Kitchen,Storage,1982,1379.24,30.41,3.8,2024,True
+295,SPO-0295,Wilson Football,Wilson,Sports,Football,27424,19750.26,27.98,3.5,2024,True
+296,ELE-0296,Dell Monitor,Dell,Electronics,Mobile,44116,28882.53,34.53,4.1,2020,True
+297,ELE-0297,HP Monitor,HP,Electronics,Tablet,117401,89470.63,23.79,4.6,2024,True
+298,FAS-0298,Nike Sports Jacket,Nike,Fashion,T-Shirts,5825,4657.27,20.05,4.2,2022,True
+299,ELE-0299,Lenovo Monitor,Lenovo,Electronics,Laptop,72878,46319.93,36.44,4.0,2025,True
+300,HKH-0300,Bajaj Cookware Set,Bajaj,Home & Kitchen,Appliances,16165,9667.74,40.19,3.9,2023,True
+301,ELE-0301,Lenovo Bluetooth Speaker,Lenovo,Electronics,Headphones,95392,57408.76,39.82,4.6,2021,True
+302,ELE-0302,Samsung Bluetooth Speaker,Samsung,Electronics,Tablet,40721,23637.26,41.95,4.5,2022,True
+303,FAS-0303,Levi's Jeans,Levi's,Fashion,Jackets,2899,1804.96,37.74,3.9,2024,True
+304,BEA-0304,Lakme Sunscreen,Lakme,Beauty,Perfume,2300,1694.72,26.32,3.8,2025,True
+305,SPO-0305,Cosco Football,Cosco,Sports,Badminton,4079,2871.29,29.61,4.4,2020,True
+306,BEA-0306,Lakme Sunscreen,Lakme,Beauty,Makeup,2107,1186.5,43.69,4.1,2024,True
+307,FAS-0307,Levi's Running Shoes,Levi's,Fashion,T-Shirts,9516,7560.25,20.55,3.7,2024,True
+308,FAS-0308,H&M Hoodie,H&M,Fashion,Jackets,3767,2783.73,26.1,3.9,2021,True
+309,ELE-0309,Sony Smartwatch,Sony,Electronics,Mobile,73143,53736.09,26.53,4.8,2019,True
+310,FAS-0310,Adidas Hoodie,Adidas,Fashion,T-Shirts,3380,2648.16,21.65,3.6,2025,True
+311,BEA-0311,Maybelline Lipstick,Maybelline,Beauty,Perfume,2571,1977.58,23.08,3.5,2023,True
+312,FAS-0312,Levi's Jeans,Levi's,Fashion,Jeans,7944,6333.55,20.27,4.3,2022,True
+313,SPO-0313,Yonex Dumbbell Set,Yonex,Sports,Cricket,15836,9789.96,38.18,4.7,2021,True
+314,BEA-0314,Nivea Sunscreen,Nivea,Beauty,Perfume,2307,1683.3,27.04,3.5,2021,True
+315,SPO-0315,Yonex Football,Yonex,Sports,Cricket,20519,15677.27,23.6,4.8,2025,True
+316,BEA-0316,Lakme Face Serum,Lakme,Beauty,Haircare,3483,2498.4,28.27,3.8,2020,True
+317,BEA-0317,Nivea Face Serum,Nivea,Beauty,Makeup,2336,1508.81,35.41,4.2,2021,False
+318,FAS-0318,Adidas Sports Jacket,Adidas,Fashion,Jeans,9886,5465.56,44.71,4.5,2024,True
+319,FAS-0319,Puma Hoodie,Puma,Fashion,Shoes,5526,3259.95,41.01,4.5,2024,True
+320,ELE-0320,HP Bluetooth Speaker,HP,Electronics,Mobile,51174,36008.91,29.63,3.8,2020,True
+321,BEA-0321,Lakme Sunscreen,Lakme,Beauty,Perfume,3260,2131.91,34.6,4.3,2022,True
+322,HKH-0322,Prestige Mixer Grinder,Prestige,Home & Kitchen,Storage,22593,16689.11,26.13,4.8,2019,True
+323,FAS-0323,Nike Sneakers,Nike,Fashion,Accessories,6427,3660.34,43.05,4.3,2019,True
+324,FAS-0324,Adidas Casual T-Shirt,Adidas,Fashion,Accessories,9883,6761.6,31.58,3.7,2025,True
+325,FAS-0325,H&M Sneakers,H&M,Fashion,Shoes,3865,2818.47,27.08,4.2,2023,True
+326,FAS-0326,Levi's Hoodie,Levi's,Fashion,Shoes,2661,1804.99,32.17,4.2,2019,True
+327,ELE-0327,Lenovo Smartphone,Lenovo,Electronics,Headphones,54897,33685.58,38.64,3.5,2020,True
+328,ELE-0328,Lenovo Gaming Mouse,Lenovo,Electronics,Mobile,48158,34919.18,27.49,4.3,2019,True
+329,ELE-0329,Samsung Monitor,Samsung,Electronics,Mobile,7159,4451.27,37.82,3.8,2020,True
+330,FAS-0330,Puma Jeans,Puma,Fashion,Jackets,6766,4480.0,33.79,4.9,2022,True
+331,ELE-0331,Dell Wireless Earbuds,Dell,Electronics,Tablet,88660,67831.25,23.49,3.7,2023,True
+332,FAS-0332,Adidas Sneakers,Adidas,Fashion,T-Shirts,4148,3147.11,24.13,4.6,2021,True
+333,ELE-0333,Sony Gaming Mouse,Sony,Electronics,Tablet,72721,46891.89,35.52,3.8,2022,True
+334,ELE-0334,HP Smartwatch,HP,Electronics,Headphones,117715,86079.8,26.87,3.7,2025,True
+335,SPO-0335,Yonex Football,Yonex,Sports,Fitness,7252,4110.6,43.32,4.4,2022,True
+336,BEA-0336,Lakme Lipstick,Lakme,Beauty,Skincare,562,365.62,34.94,3.9,2020,True
+337,BEA-0337,Maybelline Lipstick,Maybelline,Beauty,Skincare,4327,3454.55,20.16,3.9,2024,True
+338,BEA-0338,Lakme Lipstick,Lakme,Beauty,Haircare,2672,2054.94,23.09,5.0,2023,True
+339,SPO-0339,Decathlon Badminton Racket,Decathlon,Sports,Badminton,2497,1720.88,31.08,4.4,2024,True
+340,HKH-0340,Philips Cookware Set,Philips,Home & Kitchen,Furniture,16540,9290.87,43.83,4.0,2024,True
+341,FAS-0341,Nike Jeans,Nike,Fashion,Accessories,7321,4773.77,34.79,3.9,2020,True
+342,BEA-0342,Nivea Lipstick,Nivea,Beauty,Perfume,2046,1279.13,37.48,4.6,2025,True
+343,HKH-0343,Prestige Cookware Set,Prestige,Home & Kitchen,Cookware,13822,10946.29,20.81,4.3,2020,True
+344,ELE-0344,Lenovo Smartwatch,Lenovo,Electronics,Headphones,46288,32942.08,28.83,4.9,2025,True
+345,BEA-0345,L'Oreal Face Serum,L'Oreal,Beauty,Makeup,2399,1545.66,35.57,4.4,2019,True
+346,FAS-0346,Puma Sports Jacket,Puma,Fashion,T-Shirts,9656,5834.68,39.57,3.8,2021,True
+347,FAS-0347,Levi's Casual T-Shirt,Levi's,Fashion,Shoes,3613,2856.15,20.95,3.7,2025,True
+348,BEA-0348,Maybelline Sunscreen,Maybelline,Beauty,Makeup,1875,1217.17,35.08,3.9,2021,True
+349,BEA-0349,Nivea Face Wash,Nivea,Beauty,Perfume,4571,3255.38,28.78,4.0,2021,True
+350,ELE-0350,Sony Monitor,Sony,Electronics,Smartwatch,15924,11954.21,24.93,4.6,2025,True
+351,FAS-0351,H&M Jeans,H&M,Fashion,T-Shirts,5626,3676.49,34.65,4.3,2020,True
+352,HKH-0352,Bajaj Air Fryer,Bajaj,Home & Kitchen,Cookware,18430,14443.4,21.63,4.4,2022,True
+353,BEA-0353,Maybelline Moisturizer,Maybelline,Beauty,Makeup,2084,1344.1,35.5,4.8,2022,True
+354,BEA-0354,L'Oreal Moisturizer,L'Oreal,Beauty,Haircare,4202,3326.42,20.84,4.5,2022,True
+355,FAS-0355,Adidas Casual T-Shirt,Adidas,Fashion,Jeans,2793,2039.11,26.99,4.2,2023,False
+356,HKH-0356,Philips Cookware Set,Philips,Home & Kitchen,Cookware,1408,1069.75,24.02,3.6,2025,True
+357,HKH-0357,Philips Water Bottle,Philips,Home & Kitchen,Cookware,4805,3654.86,23.94,3.8,2024,True
+358,ELE-0358,Samsung Monitor,Samsung,Electronics,Laptop,51916,29338.38,43.49,4.5,2023,True
+359,FAS-0359,H&M Running Shoes,H&M,Fashion,Jackets,608,415.3,31.69,4.1,2019,True
+360,BEA-0360,Lakme Shampoo,Lakme,Beauty,Haircare,2548,1412.32,44.57,4.7,2024,True
+361,ELE-0361,Samsung Laptop,Samsung,Electronics,Laptop,15624,10641.45,31.89,3.9,2023,True
+362,SPO-0362,Wilson Badminton Racket,Wilson,Sports,Badminton,26548,17235.6,35.08,4.1,2022,True
+363,HKH-0363,Philips Storage Box,Philips,Home & Kitchen,Storage,7700,4812.45,37.5,4.7,2019,True
+364,ELE-0364,Sony Laptop,Sony,Electronics,Mobile,56120,36187.07,35.52,4.3,2019,True
+365,FAS-0365,Puma Running Shoes,Puma,Fashion,T-Shirts,8689,6615.22,23.87,4.5,2021,True
+366,FAS-0366,Adidas Sports Jacket,Adidas,Fashion,Shoes,1197,727.11,39.26,4.9,2024,True
+367,BEA-0367,Lakme Moisturizer,Lakme,Beauty,Perfume,581,453.78,21.9,4.5,2021,True
+368,SPO-0368,Decathlon Football,Decathlon,Sports,Fitness,28366,17831.47,37.14,4.9,2023,True
+369,FAS-0369,Adidas Running Shoes,Adidas,Fashion,Jackets,5403,3191.08,40.94,3.9,2025,True
+370,ELE-0370,Dell Tablet,Dell,Electronics,Tablet,53311,39391.62,26.11,3.7,2024,True
+371,ELE-0371,Sony Tablet,Sony,Electronics,Tablet,10038,5766.04,42.56,3.8,2019,True
+372,HKH-0372,Bajaj Air Fryer,Bajaj,Home & Kitchen,Furniture,1270,899.83,29.15,4.7,2022,True
+373,SPO-0373,Decathlon Dumbbell Set,Decathlon,Sports,Badminton,12801,8422.57,34.2,4.5,2024,True
+374,FAS-0374,Levi's Jeans,Levi's,Fashion,Accessories,4537,3304.19,27.17,3.6,2020,True
+375,BEA-0375,Lakme Sunscreen,Lakme,Beauty,Makeup,3391,2133.51,37.08,3.7,2019,True
+376,BEA-0376,Nivea Moisturizer,Nivea,Beauty,Perfume,2409,1386.52,42.44,3.6,2022,True
+377,BEA-0377,Nivea Face Serum,Nivea,Beauty,Perfume,415,237.55,42.76,4.3,2023,True
+378,BEA-0378,Maybelline Face Wash,Maybelline,Beauty,Haircare,301,187.51,37.7,4.1,2019,True
+379,FAS-0379,H&M Casual T-Shirt,H&M,Fashion,Accessories,9870,6714.33,31.97,4.5,2020,True
+380,FAS-0380,Nike Jeans,Nike,Fashion,Jeans,8579,5031.44,41.35,3.8,2021,True
+381,BEA-0381,L'Oreal Face Serum,L'Oreal,Beauty,Perfume,3158,1935.62,38.71,3.9,2024,True
+382,ELE-0382,Sony Smartwatch,Sony,Electronics,Tablet,63012,36341.74,42.33,4.0,2022,True
+383,ELE-0383,Lenovo Gaming Mouse,Lenovo,Electronics,Tablet,108391,82978.68,23.45,4.2,2022,True
+384,ELE-0384,Dell Wireless Earbuds,Dell,Electronics,Tablet,42378,26705.19,36.98,4.9,2020,True
+385,FAS-0385,Puma Hoodie,Puma,Fashion,T-Shirts,5728,3567.75,37.71,4.5,2022,False
+386,ELE-0386,Samsung Tablet,Samsung,Electronics,Laptop,52290,32423.72,37.99,4.7,2021,True
+387,ELE-0387,Dell Smartwatch,Dell,Electronics,Tablet,80624,64444.07,20.07,3.8,2025,True
+388,FAS-0388,Adidas Sneakers,Adidas,Fashion,Jackets,3934,2594.92,34.04,3.9,2024,True
+389,BEA-0389,L'Oreal Sunscreen,L'Oreal,Beauty,Perfume,4290,2508.77,41.52,4.0,2021,True
+390,ELE-0390,Dell Gaming Mouse,Dell,Electronics,Smartwatch,12694,8406.81,33.77,4.4,2023,True
+391,BEA-0391,Nivea Shampoo,Nivea,Beauty,Perfume,501,374.59,25.23,4.0,2025,True
+392,ELE-0392,Dell Laptop,Dell,Electronics,Mobile,103788,63524.25,38.79,4.5,2020,True
+393,ELE-0393,Apple Gaming Mouse,Apple,Electronics,Mobile,101655,64337.37,36.71,4.7,2019,True
+394,FAS-0394,H&M Casual T-Shirt,H&M,Fashion,Jeans,8866,6531.7,26.33,4.3,2024,True
+395,BEA-0395,L'Oreal Moisturizer,L'Oreal,Beauty,Perfume,3404,2266.27,33.42,4.5,2024,True
+396,FAS-0396,Adidas Running Shoes,Adidas,Fashion,Jeans,8409,4844.74,42.39,4.1,2019,True
+397,SPO-0397,Yonex Badminton Racket,Yonex,Sports,Cricket,10720,6815.42,36.42,4.7,2023,True
+398,FAS-0398,H&M Running Shoes,H&M,Fashion,Jackets,7678,5608.77,26.95,4.2,2019,True
+399,SPO-0399,Wilson Cricket Bat,Wilson,Sports,Fitness,28325,18008.17,36.42,3.7,2025,True
+400,FAS-0400,Nike Sports Jacket,Nike,Fashion,T-Shirts,3358,2310.23,31.2,4.0,2022,False
+401,BEA-0401,Nivea Face Wash,Nivea,Beauty,Makeup,1711,1020.78,40.34,4.5,2022,True
+402,ELE-0402,Dell Smartwatch,Dell,Electronics,Tablet,61926,43227.49,30.19,4.1,2024,True
+403,BEA-0403,Nivea Sunscreen,Nivea,Beauty,Haircare,712,494.37,30.57,4.7,2023,True
+404,ELE-0404,Samsung Smartwatch,Samsung,Electronics,Headphones,62972,36428.59,42.15,4.5,2022,True
+405,FAS-0405,Levi's Sports Jacket,Levi's,Fashion,Jeans,6867,4826.31,29.72,4.4,2021,True
+406,ELE-0406,Samsung Wireless Earbuds,Samsung,Electronics,Smartwatch,109658,78778.0,28.16,4.7,2023,True
+407,SPO-0407,Cosco Badminton Racket,Cosco,Sports,Cricket,4362,2659.26,39.04,3.7,2021,True
+408,ELE-0408,Samsung Gaming Mouse,Samsung,Electronics,Tablet,57819,40421.64,30.09,4.4,2022,True
+409,SPO-0409,Cosco Dumbbell Set,Cosco,Sports,Cricket,5967,4012.27,32.76,3.7,2021,True
+410,FAS-0410,H&M Running Shoes,H&M,Fashion,Accessories,6382,5028.76,21.2,4.2,2020,True
+411,ELE-0411,Apple Monitor,Apple,Electronics,Tablet,56626,40837.21,27.88,4.1,2025,True
+412,ELE-0412,HP Laptop,HP,Electronics,Laptop,77107,43003.74,44.23,4.6,2021,True
+413,SPO-0413,Wilson Dumbbell Set,Wilson,Sports,Cricket,9959,5896.25,40.79,4.2,2024,True
+414,BEA-0414,Maybelline Shampoo,Maybelline,Beauty,Perfume,4384,2535.28,42.17,3.7,2025,True
+415,FAS-0415,H&M Sports Jacket,H&M,Fashion,Jeans,1181,873.94,26.0,4.2,2020,False
+416,FAS-0416,Nike Sneakers,Nike,Fashion,Shoes,4555,2844.27,37.56,5.0,2022,True
+417,ELE-0417,HP Monitor,HP,Electronics,Mobile,116415,92956.15,20.15,4.7,2020,True
+418,SPO-0418,Yonex Sports Bag,Yonex,Sports,Badminton,20497,14515.82,29.18,3.7,2020,True
+419,ELE-0419,HP Smartphone,HP,Electronics,Laptop,77720,49562.34,36.23,3.9,2023,True
+420,ELE-0420,Dell Bluetooth Speaker,Dell,Electronics,Headphones,78069,48155.75,38.32,4.8,2024,True
+421,SPO-0421,Wilson Yoga Mat,Wilson,Sports,Cricket,2442,1949.01,20.19,4.8,2020,True
+422,ELE-0422,Lenovo Smartwatch,Lenovo,Electronics,Laptop,22168,16134.95,27.22,4.7,2025,True
+423,FAS-0423,Adidas Hoodie,Adidas,Fashion,Jackets,2829,1964.33,30.56,3.9,2022,True
+424,HKH-0424,Bajaj Storage Box,Bajaj,Home & Kitchen,Cookware,3350,2179.89,34.93,4.6,2024,True
+425,FAS-0425,Puma Hoodie,Puma,Fashion,Jeans,8496,5367.96,36.82,3.5,2025,True
+426,ELE-0426,HP Monitor,HP,Electronics,Mobile,86209,61728.74,28.4,4.0,2019,True
+427,BEA-0427,Maybelline Lipstick,Maybelline,Beauty,Perfume,3719,2812.35,24.38,4.2,2021,True
+428,ELE-0428,Sony Wireless Earbuds,Sony,Electronics,Headphones,77205,58915.57,23.69,4.7,2024,True
+429,BEA-0429,Maybelline Face Serum,Maybelline,Beauty,Skincare,3964,2196.33,44.59,4.9,2020,True
+430,ELE-0430,Lenovo Gaming Mouse,Lenovo,Electronics,Mobile,29518,23582.62,20.11,4.9,2024,True
+431,BEA-0431,Lakme Face Serum,Lakme,Beauty,Haircare,3152,1930.91,38.74,4.1,2024,True
+432,SPO-0432,Cosco Sports Bag,Cosco,Sports,Football,10510,7688.03,26.85,4.6,2022,True
+433,BEA-0433,Lakme Face Serum,Lakme,Beauty,Skincare,1948,1303.6,33.08,3.7,2020,True
+434,ELE-0434,Dell Smartphone,Dell,Electronics,Smartwatch,4056,2936.14,27.61,4.7,2025,True
+435,ELE-0435,Apple Monitor,Apple,Electronics,Laptop,12283,7458.69,39.28,3.6,2025,True
+436,BEA-0436,Maybelline Moisturizer,Maybelline,Beauty,Haircare,2651,1548.93,41.57,4.7,2025,True
+437,FAS-0437,Puma Running Shoes,Puma,Fashion,T-Shirts,9191,6349.35,30.92,4.4,2020,True
+438,SPO-0438,Cosco Sports Bag,Cosco,Sports,Cricket,25019,14707.26,41.22,4.1,2024,True
+439,HKH-0439,Prestige Pressure Cooker,Prestige,Home & Kitchen,Storage,3592,2101.33,41.5,3.7,2024,True
+440,HKH-0440,Philips Air Fryer,Philips,Home & Kitchen,Furniture,4881,2986.91,38.81,4.5,2020,True
+441,HKH-0441,Prestige Storage Box,Prestige,Home & Kitchen,Appliances,1178,897.6,23.8,4.5,2021,True
+442,BEA-0442,Lakme Sunscreen,Lakme,Beauty,Makeup,3409,2126.83,37.61,3.6,2025,False
+443,FAS-0443,Adidas Hoodie,Adidas,Fashion,Jackets,2347,1432.3,38.97,4.5,2019,True
+444,SPO-0444,Yonex Badminton Racket,Yonex,Sports,Fitness,10870,6337.16,41.7,4.8,2023,True
+445,FAS-0445,Adidas Sneakers,Adidas,Fashion,Accessories,3330,2466.47,25.93,4.9,2025,True
+446,HKH-0446,Milton Pressure Cooker,Milton,Home & Kitchen,Cookware,8891,5369.59,39.61,4.9,2025,True
+447,ELE-0447,Sony Gaming Mouse,Sony,Electronics,Headphones,58518,42452.04,27.45,3.6,2023,True
+448,BEA-0448,Nivea Moisturizer,Nivea,Beauty,Makeup,884,554.69,37.25,4.3,2020,False
+449,ELE-0449,Dell Tablet,Dell,Electronics,Laptop,54213,37765.28,30.34,4.6,2024,True
+450,SPO-0450,Yonex Badminton Racket,Yonex,Sports,Fitness,23394,15425.34,34.06,4.9,2020,True
+451,SPO-0451,Yonex Yoga Mat,Yonex,Sports,Fitness,4300,2852.37,33.67,4.4,2021,True
+452,FAS-0452,Adidas Running Shoes,Adidas,Fashion,T-Shirts,707,513.97,27.3,4.6,2020,True
+453,BEA-0453,Maybelline Shampoo,Maybelline,Beauty,Haircare,4437,3308.88,25.43,4.6,2020,True
+454,BEA-0454,Lakme Sunscreen,Lakme,Beauty,Haircare,1167,866.91,25.71,3.5,2025,True
+455,ELE-0455,HP Laptop,HP,Electronics,Tablet,37465,27277.55,27.19,4.4,2019,True
+456,FAS-0456,Nike Jeans,Nike,Fashion,Accessories,1408,950.26,32.51,4.4,2021,True
+457,ELE-0457,Apple Laptop,Apple,Electronics,Mobile,32937,24215.12,26.48,3.5,2025,True
+458,BEA-0458,Nivea Face Serum,Nivea,Beauty,Makeup,4064,2605.0,35.9,4.9,2020,True
+459,FAS-0459,Levi's Sports Jacket,Levi's,Fashion,Shoes,7370,4467.17,39.39,3.9,2024,True
+460,HKH-0460,Prestige Cookware Set,Prestige,Home & Kitchen,Cookware,12516,7257.41,42.01,4.5,2019,True
+461,BEA-0461,Nivea Face Wash,Nivea,Beauty,Skincare,764,587.71,23.07,4.8,2025,True
+462,HKH-0462,Philips Pressure Cooker,Philips,Home & Kitchen,Appliances,18423,12236.31,33.58,4.1,2021,True
+463,FAS-0463,H&M Sneakers,H&M,Fashion,Jeans,4474,2979.6,33.4,4.4,2022,False
+464,BEA-0464,Maybelline Sunscreen,Maybelline,Beauty,Makeup,4677,3461.54,25.99,3.9,2019,True
+465,BEA-0465,Maybelline Lipstick,Maybelline,Beauty,Skincare,4636,2951.31,36.34,4.8,2019,False
+466,ELE-0466,Dell Gaming Mouse,Dell,Electronics,Mobile,114280,83941.02,26.55,4.0,2020,True
+467,ELE-0467,Lenovo Gaming Mouse,Lenovo,Electronics,Laptop,67491,53337.89,20.97,5.0,2020,True
+468,SPO-0468,Yonex Cricket Bat,Yonex,Sports,Fitness,8084,6259.62,22.57,4.3,2024,True
+469,BEA-0469,L'Oreal Sunscreen,L'Oreal,Beauty,Perfume,895,622.2,30.48,4.3,2024,True
+470,HKH-0470,Milton Cookware Set,Milton,Home & Kitchen,Cookware,18906,10692.68,43.44,4.5,2020,True
+471,ELE-0471,Dell Tablet,Dell,Electronics,Headphones,107964,69986.39,35.18,4.7,2021,True
+472,BEA-0472,Lakme Lipstick,Lakme,Beauty,Haircare,811,637.36,21.41,3.7,2025,True
+473,HKH-0473,Milton Pressure Cooker,Milton,Home & Kitchen,Storage,5686,3766.36,33.76,4.0,2019,True
+474,FAS-0474,Adidas Hoodie,Adidas,Fashion,T-Shirts,5551,3696.06,33.42,4.8,2019,True
+475,FAS-0475,H&M Sneakers,H&M,Fashion,Jeans,1160,700.36,39.62,4.8,2020,True
+476,HKH-0476,Philips Air Fryer,Philips,Home & Kitchen,Storage,13284,9011.4,32.16,4.5,2021,True
+477,HKH-0477,Philips Pressure Cooker,Philips,Home & Kitchen,Storage,13551,10348.23,23.63,4.3,2023,True
+478,FAS-0478,Levi's Running Shoes,Levi's,Fashion,Jackets,2790,1619.21,41.96,3.6,2025,False
+479,SPO-0479,Cosco Football,Cosco,Sports,Cricket,27490,17872.5,34.99,4.5,2024,True
+480,FAS-0480,Adidas Jeans,Adidas,Fashion,Accessories,1728,959.82,44.45,3.6,2024,True
+481,ELE-0481,Dell Laptop,Dell,Electronics,Laptop,114054,86377.55,24.27,4.0,2019,True
+482,FAS-0482,Adidas Casual T-Shirt,Adidas,Fashion,Shoes,9902,6518.38,34.17,4.6,2022,True
+483,SPO-0483,Yonex Football,Yonex,Sports,Football,12098,7303.31,39.63,3.8,2021,True
+484,FAS-0484,Adidas Running Shoes,Adidas,Fashion,T-Shirts,4526,3221.7,28.82,4.2,2023,True
+485,FAS-0485,Nike Jeans,Nike,Fashion,Shoes,6775,3958.69,41.57,3.8,2025,True
+486,FAS-0486,Nike Running Shoes,Nike,Fashion,Accessories,6766,5043.91,25.45,4.0,2023,True
+487,ELE-0487,Dell Tablet,Dell,Electronics,Headphones,53905,33292.21,38.24,3.5,2023,True
+488,SPO-0488,Cosco Cricket Bat,Cosco,Sports,Badminton,26997,21540.44,20.21,4.3,2025,True
+489,FAS-0489,Adidas Casual T-Shirt,Adidas,Fashion,T-Shirts,2140,1309.6,38.8,3.9,2023,True
+490,ELE-0490,Lenovo Smartwatch,Lenovo,Electronics,Mobile,78457,59754.91,23.84,4.7,2021,True
+491,BEA-0491,Nivea Lipstick,Nivea,Beauty,Makeup,2137,1491.9,30.19,4.7,2024,True
+492,ELE-0492,HP Smartphone,HP,Electronics,Tablet,95202,69034.8,27.49,4.9,2023,True
+493,FAS-0493,Adidas Hoodie,Adidas,Fashion,T-Shirts,9382,5884.98,37.27,4.2,2019,True
+494,ELE-0494,Dell Smartwatch,Dell,Electronics,Tablet,5612,3825.21,31.84,3.5,2023,True
+495,BEA-0495,Maybelline Moisturizer,Maybelline,Beauty,Makeup,1653,1288.84,22.03,4.8,2021,True
+496,ELE-0496,Dell Wireless Earbuds,Dell,Electronics,Laptop,104497,60371.07,42.23,4.3,2021,False
+497,SPO-0497,Wilson Sports Bag,Wilson,Sports,Badminton,22196,14402.96,35.11,3.7,2021,True
+498,SPO-0498,Cosco Sports Bag,Cosco,Sports,Cricket,14815,11081.04,25.2,4.9,2024,True
+499,HKH-0499,Prestige Mixer Grinder,Prestige,Home & Kitchen,Appliances,22108,15414.53,30.28,3.8,2021,True
+500,BEA-0500,Maybelline Lipstick,Maybelline,Beauty,Haircare,1655,1211.8,26.78,4.9,2023,True

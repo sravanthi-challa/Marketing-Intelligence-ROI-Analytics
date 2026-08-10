@@ -1,0 +1,21 @@
+Campaign_ID,Campaign_Name,Campaign_Type,Objective,Channel_ID,Geography_ID,Start_Date,End_Date,Budget,Target_Audience,Status
+1,Winter Sale 2025,Brand Awareness,Brand Awareness,3,30,2025-04-24,2025-07-21,643022,Senior Citizens,Completed
+2,Black Friday 2025,Festival,App Downloads,1,8,2025-06-27,2025-08-13,226042,Working Professionals,Completed
+3,Weekend Sale 2025,Referral,Sales,3,7,2025-05-08,2025-05-23,417506,Working Professionals,Completed
+4,Summer Sale 2025,Seasonal,Customer Acquisition,4,24,2025-08-03,2025-08-31,977519,Men,Completed
+5,Super Saver 2025,Flash Sale,Sales,4,26,2025-10-23,2026-01-21,845075,Parents,Completed
+6,Holiday Specials 2025,Product Launch,Sales,3,1,2025-06-13,2025-07-23,159812,Parents,Completed
+7,Grand Launch 2025,Brand Awareness,App Downloads,1,18,2025-02-17,2025-04-08,672886,Senior Citizens,Planned
+8,Summer Sale 2025,Flash Sale,App Downloads,2,20,2025-08-11,2025-09-07,106157,Small Businesses,Completed
+9,Diwali Mega Sale 2025,Flash Sale,App Downloads,5,24,2025-10-04,2025-11-13,742687,Small Businesses,Completed
+10,Back to School 2025,Seasonal,Customer Acquisition,5,18,2025-09-09,2025-10-05,107152,Men,Completed
+11,Monsoon Offers 2025,Discount,App Downloads,6,20,2025-09-03,2025-10-05,151698,Parents,Completed
+12,Flash Deals 2025,Product Launch,Customer Acquisition,1,10,2025-07-23,2025-09-28,562855,Young Adults,Running
+13,Monsoon Offers 2025,Flash Sale,Lead Generation,3,29,2025-07-15,2025-09-07,245646,Young Adults,Completed
+14,Holiday Specials 2025,Referral,Website Traffic,2,27,2025-05-18,2025-08-05,114633,Working Professionals,Completed
+15,Monsoon Offers 2025,Festival,Brand Awareness,4,25,2025-04-27,2025-07-13,113946,General Public,Running
+16,Exclusive Offers 2025,Referral,Brand Awareness,2,16,2025-06-03,2025-06-20,463982,Students,Planned
+17,Referral Rewards 2025,Brand Awareness,Sales,4,6,2025-03-27,2025-04-30,897732,Students,Completed
+18,Exclusive Offers 2025,Product Launch,App Downloads,4,7,2025-03-17,2025-06-08,320413,Working Professionals,Completed
+19,Monsoon Offers 2025,Flash Sale,Brand Awareness,4,18,2025-06-16,2025-07-28,594932,Students,Completed
+20,Referral Rewards 2025,Flash Sale,Sales,4,5,2025-03-17,2025-06-04,666493,Working Professionals,Completed
