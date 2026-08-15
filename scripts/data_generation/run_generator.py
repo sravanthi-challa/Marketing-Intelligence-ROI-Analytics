@@ -13,7 +13,7 @@ from generate_product import generate_dim_product
 
 from generate_campaign import generate_dim_campaign
 from generate_customer import generate_dim_customer
-
+from generate_sales import generate_fact_sales
 def main():
     print_banner("Marketing Intelligence ROI Analytics")
 
@@ -31,6 +31,7 @@ def main():
 
     campaign_df = generate_dim_campaign()
     customer_df = generate_dim_customer()
+    sales_df = generate_fact_sales()
 
     print(f"\nDim_Date Rows     : {len(date_df)}")
     print(f"Dim_Channel Rows  : {len(channel_df)}")
@@ -40,7 +41,7 @@ def main():
 
     print(f"Dim_Campaign Rows : {len(campaign_df)}")
     print(f"Dim_Customer Rows : {len(customer_df)}")
-
+    print(f"Fact_Sales Rows : {len(sales_df)}")
 
     print_success("Pipeline completed successfully.")
 
