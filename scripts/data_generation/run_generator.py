@@ -15,6 +15,7 @@ from generate_campaign import generate_dim_campaign
 from generate_customer import generate_dim_customer
 from generate_sales import generate_fact_sales
 from generate_campaign_performance import (generate_fact_campaign_performance)
+from generate_customer_acquisition import (generate_fact_customer_acquisition)
 
 def main():
     print_banner("Marketing Intelligence ROI Analytics")
@@ -35,6 +36,8 @@ def main():
     customer_df = generate_dim_customer()
     sales_df = generate_fact_sales()
     campaign_performance_df = (generate_fact_campaign_performance())
+    customer_acquisition_df = (generate_fact_customer_acquisition())
+
 
     print(f"\nDim_Date Rows     : {len(date_df)}")
     print(f"Dim_Channel Rows  : {len(channel_df)}")
@@ -46,7 +49,7 @@ def main():
     print(f"Dim_Customer Rows : {len(customer_df)}")
     print(f"Fact_Sales Rows : {len(sales_df)}")
     print(f"Fact_Campaign_Performance Rows : "f"{len(campaign_performance_df)}")
-    
+    print(f"Fact_Customer_Acquisition Rows : "f"{len(customer_acquisition_df)}")
 
     print_success("Pipeline completed successfully.")
 
